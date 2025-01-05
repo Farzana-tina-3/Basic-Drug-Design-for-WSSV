@@ -1,0 +1,74 @@
+Basic Drug Design for White Spot Syndrome Virus (WSSV)
+
+1. Understand the Virus Structure
+
+Genomic Study: WSSV has a double-stranded DNA genome. Identify essential genes for its replication and infection, such as those coding for structural proteins and enzymes.
+
+Protein Study: Key proteins like envelope proteins (e.g., VP28, VP19) and viral enzymes are potential drug targets.
+
+2. Target Identification
+
+Binding Proteins: VP28 is a major envelope protein used by WSSV to attach and infect host cells. Targeting this can block the infection cycle.
+
+Viral Enzymes: Proteins like thymidine kinase or ribonucleotide reductase are essential for viral DNA replication.
+
+Host Factors: Identify host cell proteins that WSSV exploits for its replication.
+
+3. Drug Design Strategies
+
+Small Molecule Inhibitors:
+
+Develop molecules that bind to critical viral proteins, like VP28, to prevent host cell entry.
+
+Target enzymatic sites on viral enzymes to inhibit their activity.
+
+RNA Interference (RNAi):
+
+Design specific siRNAs to silence WSSV genes essential for replication and infection.
+
+For example, dsRNA targeting VP28 or ribonucleotide reductase genes has shown promise.
+
+Peptide-Based Drugs:
+
+Short peptides can mimic host receptors, blocking the virus from binding.
+
+CRISPR-Cas Systems:
+
+Investigate CRISPR-based antiviral systems that target WSSV DNA sequences.
+
+4. Delivery Mechanism
+
+Nanoparticles:
+
+Encapsulate drugs in nanoparticles for targeted delivery to shrimp tissues.
+
+Feed-Based Delivery:
+
+Incorporate the drug in shrimp feed to ensure oral uptake.
+
+Water Treatment:
+
+Disperse antiviral agents in aquaculture water for systemic absorption by shrimp.
+
+5. In Silico Modelling
+
+Use computational tools to:
+
+Predict the binding affinity of small molecules to WSSV targets.
+
+Simulate the effects of mutations in viral proteins on drug efficacy.
+
+6. Testing and Validation
+
+In Vitro Tests: Use shrimp cell lines or hemolymph to test the drug's efficacy.
+
+In Vivo Tests: Conduct trials in shrimp populations to evaluate survival rates, infection levels, and overall health.
+
+Environmental Safety: Ensure the drug is safe for aquatic environments and non-target species.
+
+7. Optimization
+
+Refine the drug for better bioavailability, stability, and cost-effectiveness.
+
+Ensure no harmful residues are left in shrimp that might affect human consumption.
+
